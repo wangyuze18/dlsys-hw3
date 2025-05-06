@@ -100,6 +100,7 @@ reduce_params = [
     {"dims": (4, 5, 6), "axis": 0},
     {"dims": (4, 5, 6), "axis": 1},
     {"dims": (4, 5, 6), "axis": 2},
+    {"dims": (256, 256, 256), "axis": 0},
 ]
 
 
